@@ -44,7 +44,7 @@ I'm open to collaboration, learning, or just tech discussion — feel free to re
 ---
 
 <p align="center">
-  <img src="image.png" width="35%">
+  <img src="image-removebg-preview (2).png" width="35%">
 </p>
 
 # 💻 Tech Stack:
