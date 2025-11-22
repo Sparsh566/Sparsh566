@@ -68,8 +68,6 @@ I'm open to collaboration, learning, or just tech discussion — feel free to re
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sparsh566&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sparsh566&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
 ---
 
