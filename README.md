@@ -59,15 +59,18 @@ I'm open to collaboration, learning, or just tech discussion — feel free to re
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sparsh566&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=Sparsh566&theme=neon&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh566&theme=neon&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh566&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" /><br>
+  <img src="https://streak-stats.demolab.com/?user=Sparsh566&theme=radical&hide_border=true" alt="GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh566&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sparsh566&theme=neon&no-frame=false&no-bg=true&margin-w=4)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sparsh566&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
