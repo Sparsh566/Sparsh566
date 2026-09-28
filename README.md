@@ -60,9 +60,11 @@ I'm open to collaboration, learning, or just tech discussion — feel free to re
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sparsh566&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" alt="GitHub Stats" /><br>
-  <img src="https://streak-stats.demolab.com/?user=Sparsh566&theme=radical&hide_border=true" alt="GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparsh566&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Sparsh566&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Sparsh566&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sparsh566&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </p>
 
 ---
