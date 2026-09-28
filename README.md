@@ -69,9 +69,13 @@ I'm open to collaboration, learning, or just tech discussion — feel free to re
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Galaga Contribution Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sparsh566&theme=radical&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sparsh566/Sparsh566/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sparsh566/Sparsh566/output/galaga-contribution-graph.svg">
+    <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Sparsh566/Sparsh566/output/galaga-contribution-graph.svg" width="100%">
+  </picture>
 </p>
 
 ---
